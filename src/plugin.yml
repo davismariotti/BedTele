@@ -1,0 +1,15 @@
+name: Granolds Bed
+main: me.gomeow.bedtele.bedtele
+version: 1.0
+description: Makes a specified bed teleport you!
+author: gomeow
+website: http://dev.bukkit.org/server-mods/bedtele/
+commands:
+  granoldsbed:
+    description: Shows help page.
+  granoldsbed create:
+    description: Explains how to make a Granold's bed
+  granoldsbed setbed <name>:
+    description: Sets a Granold's bed
+  granoldsbed setdestination <name>:
+    description: Sets a Granold's bed destination
